@@ -1,6 +1,6 @@
 # Sample application for tutorials
 
-[Tutorial](https://grafana.com/tutorials/)
+[Grafana Tutorial https://grafana.com/tutorials/](https://grafana.com/tutorials/)
 
 This repository contains the environment for completing the tutorials at [grafana.com/tutorials](https://grafana.com/tutorials).
 
