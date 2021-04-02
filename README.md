@@ -1,9 +1,9 @@
 # Sample application for tutorials
 
-https://grafana.com/tutorials/This repository contains the environment for completing the tutorials at [grafana.com/tutorials](https://grafana.com/tutorials).
+This repository contains the environment for completing the tutorials at [grafana.com/tutorials](https://grafana.com/tutorials).
 
 ## Document
-[External link, https://grafana.com/tutorials/](https://grafana.com/tutorials/)
+External link [https://grafana.com/tutorials/](https://grafana.com/tutorials/)
 
 ## Prequisites
 
